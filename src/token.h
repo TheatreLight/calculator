@@ -8,8 +8,8 @@ class Token {
   Token(double number, const std::string& kind);
   Token(const Token& other) = default;
   Token& operator=(const Token& other) = default;
-  Token(Token&& other) = delete;
-  Token& operator=(Token&& other) = delete;
+  Token(Token&& other) = default;
+  Token& operator=(Token&& other) = default;
   ~Token() = default;
 
   std::string get_str() { return kind_; }
