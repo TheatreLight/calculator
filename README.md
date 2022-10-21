@@ -8,9 +8,7 @@ It written by C++ using MVC pattern.
 A bild tested in Linux and MacOs. In Win I think you will need to open the project in QtCreator and make a build using it.
 You must have a qmake.
 
-clone
-make
-make run
+Clone the project, make and make run.
 
 Or you can open the project in Qt Creator and build it there.
 
