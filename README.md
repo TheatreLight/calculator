@@ -1,6 +1,7 @@
 ## A smart calculator app
 
 This app provide you to calculate an infix expression.
+It written by C++ using MVC pattern. 
 
 ## How to build
 
