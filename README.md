@@ -5,6 +5,7 @@ It written by C++ using MVC pattern.
 
 ## How to build
 
+A bild tested in Linux and MacOs. In Win I think you will need to open the project in QtCreator and make a build using it.
 You must have a qmake.
 
 clone
